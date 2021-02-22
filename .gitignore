@@ -1,0 +1,9 @@
+*.vcxproj
+*.vcxproj.*
+*.log
+*.obj
+*.exe
+**/Debug/**/*
+Debug/*
+*.vs
+*.sln

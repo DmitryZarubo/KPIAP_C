@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RatedText">
+    <Position X="3" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAkgAAIQIAABQAIAAEAAAAIAQAgAAQAAAA=</HashCode>
+      <FileName>class_text.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Joke">
+    <Position X="5" Y="7" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Joke::__unnamed_enum_0074_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>class_text.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAEAAAAQBAAAAQAAAAAAAAAAAAAgAQQAAAA=</HashCode>
+      <FileName>class_text.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Newspapers">
+    <Position X="0.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAQAAUAAAAAAAAAEAAAAAABAAAAAAgAQQAAEA=</HashCode>
+      <FileName>class_text.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
